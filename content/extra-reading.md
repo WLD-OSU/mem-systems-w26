@@ -10,6 +10,36 @@ hide = false
 - Onur Mutlu: [Research Problems and Opportunities in Memory Systems](https://pdl.cmu.edu/PDL-FTP/NVM/memory-systems-research_superfri14.pdf)
 - [TMO](https://www.cs.cmu.edu/~dskarlat/publications/tmo_asplos22.pdf), Meta's memory offloading infrastructure. 
 
+### Disaggregated Memory
+- [LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/conference/osdi18/presentation/shan) - OSDI '18
+- [TrackFM: Far-out Compiler Support for a Far Memory World](https://dl.acm.org/doi/10.1145/3617232.3624856) - ASPLOS '24
+- [AIFM: High-Performance, Application-Integrated Far Memory](https://www.usenix.org/system/files/osdi20-ruan.pdf) - OSDI '20
+- [GiantVM: A Novel Distributed Hypervisor for Resource Aggregation with DSM-aware Optimizations
+](https://dl.acm.org/doi/10.1145/3505251) - TACO 19(2) 2024
+- [Managing Memory Tiers with CXL in Virtualized Environments](https://www.usenix.org/system/files/osdi24-zhong-yuhong.pdf) - OSDI '24
+- [vtism: Efficient Tiered Memory Management for Virtual Machines with CXL](https://dl.acm.org/doi/10.1145/3757347.3759131) - SYSTOR '25
+
+### PMEM
+- [Mnemosyne: lightweight persistent memory](https://dl.acm.org/doi/10.1145/1950365.1950379) - ASPLOS '11
+- [NVHeaps](https://dl.acm.org/doi/10.1145/1961296.1950380) - ASPLOS '11
+- [SplitFS](https://dl.acm.org/doi/10.1145/3341301.3359631) - SOSP '19
+- [Rethinking File Mapping for Persistent Memory](https://www.usenix.org/conference/fast21/presentation/neal) - FAST '21
+- [PACTree: A High Performance Persistent Range Index Using PAC Guidelines](https://multics69.github.io/pages/pubs/pactree-kim-sosp21.pdf) - SOSP '21
+- [Persistent State Machines for Recoverable In-memory Storage Systems with NVRam](https://www.usenix.org/conference/osdi20/presentation/zhang-wen) - OSDI '20
+
+### Archival Storage
+- Microsoft Research (MSR): [Project Silica](https://www.microsoft.com/en-us/research/wp-content/uploads/2023/09/ProjectSilica-SOSP23.pdf), long-term storage on glass!
+- [OceanStore: an architecture for global-scale persistent storage](https://dl.acm.org/doi/10.1145/356989.357007) - ASPLOS 2000
+- [A DNA-Based Archival Storage System](https://homes.cs.washington.edu/~luisceze/publications/dnastorage-asplos16.pdf) - ASPLOS '16
+
+### Bio Storage
+- [Managing Reliability Skew in DNA Storage](https://arxiv.org/abs/2204.12261) - ISCA '22
+
+### Quantum
+- [Systems Architecture for Quantum Random Access Memory](https://assets.amazon.science/70/be/027e7a9c47239991fb982d8dae7e/systems-architecture-for-quantum-random-access-memory.pdf) - MICRO '23
+- [Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for Parallel Queries](https://arxiv.org/html/2502.06767) - ASPLOS '25
+
+
 ## Miscellaneous Research Advice
 Here are some extra readings containing priceless advice on conducting systems research (and research more broadly)
 from people that are much smarter than me:
