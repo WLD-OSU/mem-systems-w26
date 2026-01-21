@@ -31,12 +31,14 @@ lesson = 4
 leader = "Lab 2: Suvrojyoti Paul, Derek Werbowy & Kabir Vidyarthi"
 readings = ["mc2"]
 paper_slides = "https://canvas.oregonstate.edu/courses/2028992/files/116007428?module_item_id=26480379"
+blog_link = "../blog/mc-2-lazy-memcopy-at-the-memory-controller"
 
 [[classes]]
 lesson = 5
-title = "Hardware: Caches"
+#title = "Hardware: Caches"
 leader = "Lab 3: Thomas Pinon"
 readings = ["rrip"]
+paper_slides = "https://canvas.oregonstate.edu/courses/2028992/files/116127372?module_item_id=26489988"
 
 [[classes]]
 lesson = 6
